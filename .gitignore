@@ -31,3 +31,9 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# macOS 시스템 파일
+.DS_Store
+
+# 추가적인 빌드 파일
+/build/
